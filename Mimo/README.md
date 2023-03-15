@@ -9,7 +9,8 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
   <summary>Nível Básico</summary>
   <br>Aqui você encontrará os projetos de nível básico desenvolvidos com a linguagem de programação Python. Para visualizar os notebooks, basta clicar no título que faz referência ao assunto estudado e acompanhar o código!
   
-  * [Declarando variáveis](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/01_declarandoVariaveis.ipynb): aprendi como declarar variáveis e usá-las para armazenar diferentes tipos de dados. Os projetos incluem um **conversor de quilômetro**, um **interruptor de luz inteligente** e um **rastreador de vendas**;
+  * [Declarando variáveis](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/01_declarandoVariaveis.ipynb): aprendi como declarar variáveis e usá-las para armazenar diferentes dados. Os projetos incluem um **conversor de quilômetro**, um **interruptor de luz inteligente** e um **rastreador de vendas**;
   * [Comparações](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/02_comparacoes.ipynb): utilizando operadores de comparação para analisar diferentes tipos de dados. Os projetos incluem um **medidor de frequência cardíaca**, **insights de dados de pesquisa** e **comparação de entradas**;
+  * [Condicionais](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/03_declaracoesCondicionais.ipynb): usando condicionais para criar lógicas de decisão no meu código. Desenvolvi os projetos de **banco de dados de usuários**, **identificando valores discrepantes** e **calculador de tarifas de corrida**.
 
 </details>
