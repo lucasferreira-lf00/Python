@@ -13,6 +13,7 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
   * [Comparações](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/02_comparacoes.ipynb): utilizando operadores de comparação para analisar diferentes tipos de dados. Os projetos incluem um **medidor de frequência cardíaca**, **insights de dados de pesquisa** e **comparação de entradas**;
   * [Condicionais](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/03_declaracoesCondicionais.ipynb): usando condicionais para criar lógicas de decisão no meu código. Desenvolvi os projetos de **banco de dados de usuários**, **identificando valores discrepantes** e **calculador de tarifas de corrida**.
   * [Loops](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/04_loop.ipynb): aprendendo a usar loops para controlar a execução de fluxos de trabalho várias vezes. Desenvolvi os projetos de **gerador de cupons**, **calculadora de custos de envio** e **calculadora de juros compostos**.
+  * [Listas](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/05_listas.ipynb): declarando e manipulando listas para desenvolvimento dos projetos de **monitor de valores de ações**, **maior pontuação** e **monitor umidade**.
 
 </details><br><br>
 
