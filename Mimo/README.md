@@ -16,11 +16,11 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
   * [Listas](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/05_listas.ipynb): declarando e manipulando listas para desenvolvimento dos projetos de **monitor de valores de ações**, **maior pontuação** e **monitor umidade**;
   * [Manipulação de strings](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/06_manipulacaoStrings.ipynb): manipulando strings para desenvolvimento dos projetos de **calculadora de gorjetas**, **dados de jogo** e **transformador de DNA em RNA**.
 
-</details><br><br>
+</details><br>
 
 <details>
   <summary><b>Nível Intermediário</b></summary>
-  <br>Aqui você encontrará os projetos de nível intermediário desenvolvidos com a linguagem de programação Python. Para visualizar os notebooks, basta clicar no título que faz referência ao assunto estudado e acompanhar o código:<br><br>
+  <br>Aqui você encontrará os projetos de nível intermediário desenvolvidos com a linguagem de programação Python. Para visualizar os notebooks, basta clicar no título que faz referência ao assunto estudado e acompanhar o código:<br>
 
 </details><br><br>
 
