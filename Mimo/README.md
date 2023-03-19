@@ -24,6 +24,7 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
 
   * [Funções](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/02_pythonIntermediario/01_funcoes.ipynb): declarando funções para criar os projetos de **calculadora simples**, **verificador de amigos comuns** e um **codificador morse**;
   * [Manipulando listas](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/02_pythonIntermediario/02_manipulacaoListas.ipynb): controlando fluxos e manipulando listas para elaborar um **marcador de teste em tempo real**, **priorizador de tarefas** e um **sistema para monitorar frequência cardíaca**;
+  * [Classes](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/02_pythonIntermediario/03_classes.ipynb): criando objetos com atributos e métodos utilizando classes para construir descrições de **dados de um livro**, **lista de filme** e um **criador de personagens**;
 
 </details><br><br>
 
