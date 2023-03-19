@@ -23,6 +23,7 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
   <br>Aqui você encontrará os projetos de nível intermediário desenvolvidos com a linguagem de programação Python. Para visualizar os notebooks, basta clicar no título que faz referência ao assunto estudado e acompanhar o código:<br>
 
   * [Funções](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/02_pythonIntermediario/01_funcoes.ipynb): declarando funções para criar os projetos de **calculadora simples**, **verificador de amigos comuns** e um **codificador morse**;
+  * [Manipulando listas](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/02_pythonIntermediario/02_manipulacaoListas.ipynb): controlando fluxos e manipulando listas para elaborar um **marcador de teste em tempo real**, **priorizador de tarefas** e um **sistema para monitorar frequência cardíaca**;
 
 </details><br><br>
 
