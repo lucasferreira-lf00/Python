@@ -18,6 +18,12 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
 
 </details><br><br>
 
+<details>
+  <summary><b>Nível Intermediário</b></summary>
+  <br>Aqui você encontrará os projetos de nível intermediário desenvolvidos com a linguagem de programação Python. Para visualizar os notebooks, basta clicar no título que faz referência ao assunto estudado e acompanhar o código:<br><br>
+
+</details><br><br>
+
 # <img align="left" width=40 src="https://i.postimg.cc/9XGKGFSN/contribution-icon-17-removebg-preview.png"> Contribuições
 
 Contribuições são sempre bem-vindas! Se você encontrar algum problema em algum dos projetos ou tiver sugestões de melhorias, sinta-se livre para abrir uma issue ou um pull request.
