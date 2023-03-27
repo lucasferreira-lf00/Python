@@ -30,6 +30,11 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
 
 </details><br><br>
 
+<details>
+    <summary><b>Certificado<b></summary>
+    <img align="center" src="https://i.postimg.cc/nLjpkjhN/certificado-Python.jpg">
+</details>
+
 # <img align="left" width=40 src="https://i.postimg.cc/9XGKGFSN/contribution-icon-17-removebg-preview.png"> Contribuições
 
 Contribuições são sempre bem-vindas! Se você encontrar algum problema em algum dos projetos ou tiver sugestões de melhorias, sinta-se livre para abrir uma issue ou um pull request.
