@@ -28,12 +28,12 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
   * [Programação Orientada a Objeto](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/02_pythonIntermediario/04_POO.ipynb): projetos desenvolvidos utilizando os conceitos de Programação Orientada a Objetos (POO): **máquina de venda virtual**, **calculadora de perímetro** e um **banco de dados de funcionários**.
 
 
-</details><br><br>
+</details><br>
 
 <details>
-    <summary><b>Certificado<b></summary>
+    <summary><b>Certificado</b></summary>
     <img align="center" src="https://i.postimg.cc/nLjpkjhN/certificado-Python.jpg">
-</details>
+</details><br>
 
 # <img align="left" width=40 src="https://i.postimg.cc/9XGKGFSN/contribution-icon-17-removebg-preview.png"> Contribuições
 
