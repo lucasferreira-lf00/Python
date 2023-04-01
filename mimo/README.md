@@ -16,7 +16,7 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
   * [Listas](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/05_listas.ipynb): declarando e manipulando listas para desenvolvimento dos projetos de **monitor de valores de ações**, **maior pontuação** e **monitor umidade**;
   * [Manipulação de strings](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/01_pythonBasico/06_manipulacaoStrings.ipynb): manipulando strings para desenvolvimento dos projetos de **calculadora de gorjetas**, **dados de jogo** e **transformador de DNA em RNA**.
 
-</details><br>
+</details>
 
 <details>
   <summary><b>Nível Intermediário</b></summary>
@@ -28,12 +28,12 @@ Sua didática inclui o aprendizado através de mini-projetos durante todo o curs
   * [Programação Orientada a Objeto](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/02_pythonIntermediario/04_POO.ipynb): projetos desenvolvidos utilizando os conceitos de Programação Orientada a Objetos (POO): **máquina de venda virtual**, **calculadora de perímetro** e um **banco de dados de funcionários**;
   * [Erros e exceções](https://github.com/lucasferreira-lf00/Python/blob/main/Mimo/02_pythonIntermediario/05_erros.ipynb): trabalhando com códigos que contêm erros, os quais devem ser identificados e corrigidos: **calculadora de calorias**.
 
-</details><br>
+</details>
 
 <details>
     <summary><b>Certificado</b></summary>
     <img align="center" src="https://i.postimg.cc/nLjpkjhN/certificado-Python.jpg">
-</details><br>
+</details>
 
 # <img align="left" width=40 src="https://i.postimg.cc/9XGKGFSN/contribution-icon-17-removebg-preview.png"> Contribuições
 
