@@ -27,7 +27,7 @@ Essa seção está organizada em pastas que contém todos os desafios e códigos
   <summary><b>Python avançado</b></summary>
   <br>Em breve!<br>
 
-</details><br>
+</details>
 
 # <img align="left" width=40 src="https://i.postimg.cc/9XGKGFSN/contribution-icon-17-removebg-preview.png"> Contribuições
 
