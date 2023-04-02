@@ -7,25 +7,30 @@ Essa seção está organizada em pastas que contém todos os desafios e códigos
 
 <details>
   <summary><b>Fundamentos Python</b></summary>
-  <br>Aqui você encontrará os projetos de nível básico desenvolvidos com a linguagem de programação Python. Para visualizar os notebooks, basta clicar no título que faz referência ao assunto estudado e acompanhar o código:<br>
-
-</details><br>
+  <br>Aqui você encontrará os conteúdos de nível básico que abordam os fundamentos da linguagem. Para visualizar os notebooks, basta clicar no título que faz referência ao assunto estudado e acompanhar o código:<br><br>
+  
+  * [Fundamentos](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/01_fundamentosLinguagem.ipynb)
+  
+</details>
 
 <details>
   <summary><b>Python para análise de dados</b></summary>
-  <br>Em breve!<br>
+  
+  Em breve!
 
-</details><br>
+</details>
 
 <details>
   <summary><b>Python para aplicações web</b></summary>
-  <br>Em breve!<br>
+  
+  Em breve!
 
-</details><br>
+</details>
 
 <details>
   <summary><b>Python avançado</b></summary>
-  <br>Em breve!<br>
+  
+  Em breve!
 
 </details>
 
