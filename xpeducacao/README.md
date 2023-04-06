@@ -7,9 +7,9 @@ Essa seção está organizada em pastas que contém todos os desafios e códigos
 
 <details>
   <summary><b>Fundamentos Python</b></summary>
-  <br>Aqui você encontrará os conteúdos de nível básico que abordam os fundamentos da linguagem. Para visualizar os notebooks, basta clicar no título que faz referência ao assunto estudado e acompanhar o código:<br><br>
+  <br>Aqui você encontrará os conteúdos que abordam os fundamentos da linguagem. Para visualizar os notebooks, basta clicar no título que faz referência ao assunto estudado e acompanhar o código:<br><br>
   
-  * [Fundamentos](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/01_fundamentosLinguagem.ipynb)
+  * [Fundamentos](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/01_fundamentosLinguagem.ipynb): aprendendo a declarar variáveis, os principais erros, tipos de dados, operadores da linguagem, operações com strings, conversão e formatação de dados;
   
 </details>
 
