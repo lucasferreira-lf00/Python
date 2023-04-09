@@ -12,6 +12,7 @@ Essa seção está organizada em pastas que contém todos os desafios e códigos
   * [Fundamentos](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/01_fundamentosLinguagem.ipynb): aprendendo a declarar variáveis, os principais erros, tipos de dados, operadores da linguagem, operações com strings, conversão e formatação de dados;
   * [Fluxos de controle](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/02_fluxosControle.ipynb): aprendendo a utilizar condicionais e estruturas de repetições;
   * [Estruturas de dados](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/03_estruturaDados.ipynb): aprendendo sobre listas, tuplas, conjuntos e dicionários;
+  * [Funções](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/04_funcoes.ipynb): aprendendo sobre a utilização de funções, como declarar e utiliza-las para poupar linhas reutilizando códigos repetitivos;
   
 </details>
 
