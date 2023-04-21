@@ -13,6 +13,7 @@ Essa seção está organizada em pastas que contém todos os desafios e códigos
   * [Fluxos de controle](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/02_fluxosControle.ipynb): aprendendo a utilizar condicionais e estruturas de repetições;
   * [Estruturas de dados](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/03_estruturaDados.ipynb): aprendendo sobre listas, tuplas, conjuntos e dicionários;
   * [Funções](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/04_funcoes.ipynb): aprendendo sobre a utilização de funções, como declarar e utiliza-las para poupar linhas reutilizando códigos repetitivos;
+  * [Recursos](https://github.com/lucasferreira-lf00/python/blob/main/xpeducacao/01_fundamentos/05_recursosUteis.ipynb): utilizando compreensão de listas e dicionários, funções Lambda e fórmulas condicionais em uma linha.
   
 </details>
 
